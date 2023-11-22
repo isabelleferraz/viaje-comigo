@@ -1,7 +1,3 @@
-p{
-text-align: center;
-background: #ddf1ee;
-}
 
 body{
 background: #dcb7e6;
@@ -14,3 +10,7 @@ h1{
 em strong{
    color: lightpink;
 }
+p{
+   text-align: center;
+   background: #ddf1ee;
+   }
